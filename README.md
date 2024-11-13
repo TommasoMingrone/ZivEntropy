@@ -1,2 +1,2 @@
 # ZivEntropy
-A learning method for calculating ZivEntropy
+A learning method to calculate ZivEntropy
